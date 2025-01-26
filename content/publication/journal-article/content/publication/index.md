@@ -1,67 +1,34 @@
 ---
-title: "An example journal article"
+title: Ornithodoros hermsi.
+date: '2024-08-01'
+draft: true
+publishDate: '2025-01-26T17:04:55.619592Z'
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
+- Lucas C de Sousa-Paula
+- Tom G Schwan
+- Lucas Tirloni
+publication_types:
+- '2'
+abstract: Ornithodoros hermsi is a small, multi-host soft tick that feeds rapidly
+  on blood  in all life stages, including larva, 2 to 5 nymphal instars (primarily
+  3), and male and female. As adults, they can feed repeatedly and reproduce for many
+  years. O. hermsi is nidicolous and primarily inhabits nest cavities and burrows
+  of small rodents and birds, with chipmunks and tree squirrels serving as its primary
+  hosts. When no hosts are available, they can fast for several years. O. hermsi is
+  found in restricted habitats where their hosts live in coniferous pine and Douglass
+  fir forests at elevations of 1,500–10,000 feet in western North America. Rustic
+  forest cabins infested with rodents and O. hermsi are the primary exposure sites
+  for humans, who may be bitten while sleeping by these nocturnally active ticks.
+  O. hermsi bites cause erythema and local discomfort, but compared to other species,
+  effects appear benign. Other bite effects like toxicosis and paralysis remain unknown.
 featured: false
-
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+publication: '*Trends in parasitology*'
+tags:
+- Animals
+- Humans
+- Ornithodoros
+- physiology
+doi: 10.1016/j.pt.2024.04.008
 ---
 
 {{% callout note %}}
