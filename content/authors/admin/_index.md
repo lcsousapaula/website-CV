@@ -134,12 +134,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
   - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -175,4 +173,12 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lucas C. de Sousa-Paula is a biologist with a Master of Science degree in Biological Sciences and
+a Doctor of Science degree (equivalent to a PhD) in Science. During his MSc and PhD courses in
+Brazil, he focused his research on phlebotomine sand flies and leishmanial parasites, with a
+background in population genetics, evolution, and bioinformatics. Additionally, Dr. Sousa-Paula
+collaborated on studies about other arthropod vectors (such as ticks) and pathogens (including
+Rickettsia spp. bacteria and Babesia spp. parasites), which helped to broaden his research interests
+to other vectors, parasites, and diseases. Currently, he is a Visiting Fellow Postdoc at the Rocky
+Mountain Laboratories (NIAID/NIH) in Hamilton, MT, USA, where he is receiving training in vector
+biology, with a focus on tick vector species and their genomic and transcriptomic aspects.
