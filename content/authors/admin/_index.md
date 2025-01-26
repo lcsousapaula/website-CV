@@ -162,9 +162,7 @@ awards:
     awarder: Brazilian Society of Tropical Medicine
     icon: coursera
     summary: |
-      
-SBMT, maintaining the tradition of recognizing the best works of the Congress of the Brazilian Society of Tropical Medicine (MEDTROP), provides the Young Scientist Award. The aim is to encourage young researchers to produce high quality scientific results in the area of Tropical Medicine.
-
+      SBMT, maintaining the tradition of recognizing the best works of the Congress of the Brazilian Society of Tropical Medicine (MEDTROP).
 ---
 
 ## About Me
