@@ -40,7 +40,7 @@ profiles:
     url: https://www.instagram.com/lcsousapaula/
   - icon: brands/github
     url: https://github.com/lcsousapaula
-  - icon: academicons//researchgate
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Lucas-Sousa-Paula
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=pt-BR&user=etQmZgoAAAAJ
