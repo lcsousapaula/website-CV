@@ -1,0 +1,72 @@
+---
+title: Seasonal dynamics and rickettsial infection in free-living Amblyomma dubitatum
+  in  the Atlantic forest biome in north-eastern Brazil.
+date: '2021-05-01'
+draft: true
+publishDate: '2025-01-26T17:04:58.840812Z'
+authors:
+- Filipe Dantas-Torres
+- Marcela Ferreira Melo
+- Kamila Gaudêncio da Silva Sales
+- Lucas Christian de Sousa-Paula
+- Fernando José da Silva
+- Luciana Aguiar Figueredo
+- Marcelo Bahia Labruna
+publication_types:
+- '2'
+abstract: 'The genus Amblyomma is the most representative tick genus in Brazil and
+  some  species act as vectors of pathogenic organisms to animals and humans. Information
+  on the seasonal dynamics of Amblyomma spp. as well as on rickettsial organisms infecting
+  these ticks in some regions in Brazil is still fragmentary. Herein, we investigated
+  the seasonal dynamics and rickettsial infections in Amblyomma dubitatum ticks collected
+  in the Atlantic forest biome in north-eastern Brazil. Using carbon dioxide traps,
+  ticks were collected monthly for two consecutive years. In total, 15,789 ticks were
+  collected: 69 females (0.4%), 116 males (0.7%), 1,067 nymphs (6.8%), and 14,537
+  larvae (92.1%). All nymphs, females and males were identified as A. dubitatum, whereas
+  larvae were identified as Amblyomma spp. Larvae were more frequent in summer (77%
+  of the larvae collected), whereas nymphs were collected with similar frequency in
+  summer (32.8%), autumn (30.0%) and spring (28.4%). Adults were more frequent in
+  spring (47.6%). A total of 648 ticks (485 nymphs, 60 females, and 103 males) were
+  tested by PCR for the gltA gene of Rickettsia spp. and 87 (13.4%; 95% CI: 10.9-16.3%)
+  were positive. A consensus sequence (size, 350 bp) of 66 gltA gene sequences indicate
+  that the organism detected herein is similar to Rickettsia tamurae, Rickettsia monacencis
+  and Rickettsia sp. strain Pampulha. One of these positive samples was also positive
+  for the ompA gene of spotted fever group rickettsiae, but attempts to sequence the
+  amplicon were not successful. We also tested this sample by a PCR targeting the
+  rickettsial htrA gene, but no amplification product could be detected. This study
+  indicates that A. dubitatum may be a common tick in areas where capybaras are present
+  in north-eastern Brazil, occurring during the whole year. It also suggests the circulation
+  of a spotted fever group rickettsia in this A. dubitatum population, whose identity
+  has yet to be determined.'
+featured: false
+publication: '*Acta tropica*'
+tags:
+- Amblyomma
+- Animals
+- Bacterial Outer Membrane Proteins
+- Bacterial Proteins
+- Brazil
+- Citrate (si)-Synthase
+- DNA
+- Bacterial
+- Disease Vectors
+- Ecosystem
+- Female
+- Forests
+- Larva
+- Male
+- Nymph
+- Polymerase Chain Reaction
+- Rickettsia
+- Rickettsia Infections
+- Seasons
+- Sequence Analysis
+- DNA
+- classification
+- epidemiology
+- genetics
+- microbiology
+- veterinary
+doi: 10.1016/j.actatropica.2021.105854
+---
+
