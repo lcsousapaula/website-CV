@@ -90,14 +90,24 @@ work:
     company_name: National Institutes of Health (USA)
     company_url: https://www.niaid.nih.gov/node/17825
     company_logo: ''
-    date_start: 2022-08-15
+    date_start: 2022-08-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -175,12 +185,4 @@ awards:
 
 ## About Me
 
-Lucas C. de Sousa-Paula is a biologist with a Master of Science degree in Biological Sciences and
-a Doctor of Science degree (equivalent to a PhD) in Science. During his MSc and PhD courses in
-Brazil, he focused his research on phlebotomine sand flies and leishmanial parasites, with a
-background in population genetics, evolution, and bioinformatics. Additionally, Dr. Sousa-Paula
-collaborated on studies about other arthropod vectors (such as ticks) and pathogens (including
-Rickettsia spp. bacteria and Babesia spp. parasites), which helped to broaden his research interests
-to other vectors, parasites, and diseases. Currently, he is a Visiting Fellow Postdoc at the Rocky
-Mountain Laboratories (NIAID/NIH) in Hamilton, MT, USA, where he is receiving training in vector
-biology, with a focus on tick vector species and their genomic and transcriptomic aspects.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
