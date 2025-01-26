@@ -97,7 +97,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -134,10 +134,12 @@ skills:
         icon: camera
 
 languages:
-  - name: Portuguese
-    percent: 100
   - name: English
+    percent: 100
+  - name: Chinese
     percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
