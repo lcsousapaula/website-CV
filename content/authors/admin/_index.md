@@ -40,8 +40,8 @@ profiles:
     url: https://www.instagram.com/lcsousapaula/
   - icon: brands/github
     url: https://github.com/lcsousapaula
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  - icon: academicons//researchgate
+    url: https://www.researchgate.net/profile/Lucas-Sousa-Paula
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=pt-BR&user=etQmZgoAAAAJ
   - icon: academicons/orcid
@@ -158,11 +158,11 @@ languages:
 awards:
   - title: Young Scientist Award
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: '2021-11-1'
     awarder: Brazilian Society of Tropical Medicine
     icon: coursera
     summary: |
-      SBMT, maintaining the tradition of recognizing the best works of the Congress of the Brazilian Society of Tropical Medicine (MEDTROP).
+      The Brazilian Society of Tropical Medicine maintaining the tradition of recognizing the best works of the Congress of the Brazilian Society of Tropical Medicine (MEDTROP).
 ---
 
 ## About Me
