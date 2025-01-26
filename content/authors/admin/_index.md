@@ -158,7 +158,7 @@ languages:
 awards:
   - title: Young Scientist Award
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2021-11-1'
+    date: '2021-11-01'
     awarder: Brazilian Society of Tropical Medicine
     icon: coursera
     summary: |
