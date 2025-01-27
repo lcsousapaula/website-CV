@@ -1,13 +1,17 @@
 ---
-title: "An example journal article"
+title: Ornithodoros hermsi.
+date: '2024-08-01'
+draft: true
+publishDate: '2025-01-26T17:04:55.619592Z'
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Lucas C de Sousa-Paula
+- Tom G Schwan
+- Lucas Tirloni
+publication_types:
+- '2'
+featured: false
+publication: '*Trends in parasitology*'
+doi: 10.1016/j.pt.2024.04.008
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
