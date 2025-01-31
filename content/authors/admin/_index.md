@@ -167,12 +167,4 @@ awards:
 
 ## About Me
 
-Lucas C. de Sousa-Paula is a biologist with a Master of Science degree in Biological Sciences and
-a Doctor of Science degree (equivalent to a PhD) in Science. During his MSc and PhD courses in
-Brazil, he focused his research on phlebotomine sand flies and leishmanial parasites, with a
-background in population genetics, evolution, and bioinformatics. Additionally, Dr. Sousa-Paula
-collaborated on studies about other arthropod vectors (such as ticks) and pathogens (including
-Rickettsia spp. bacteria and Babesia spp. parasites), which helped to broaden his research interests
-to other vectors, parasites, and diseases. Currently, he is a Visiting Fellow Postdoc at the Rocky
-Mountain Laboratories (NIAID/NIH) in Hamilton, MT, USA, where he is receiving training in vector
-biology, with a focus on tick vector species and their genomic and transcriptomic aspects.
+Lucas C. de Sousa-Paula is a biologist with an MSc in Biological Sciences and a Doctor of Science degree (PhD equivalent) in Science. His research focuses on vector-borne diseases, ranging from classical biological studies on ticks and phlebotomine sand flies to omics approaches for investigating pathogen-vector interactions.
