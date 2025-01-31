@@ -51,8 +51,9 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v2
+      uses: actions/upload-artifact@v3 # Updated to v3, as v2 was deprecated
       with:
+        name: github-pages
         path: ./public
 
   deploy:
