@@ -46,12 +46,12 @@ jobs:
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-        echo "Contents of public directory:"
-        ls -l ./public # List contents to verify if it's generated
+    - name: List contents of public directory
+      run: ls -l ./public # Verifica se o diretório public foi gerado corretamente
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-      uses: actions/upload-artifact@v4  # Use the updated version here
+      uses: actions/upload-artifact@v4
       with:
         name: github-pages
         path: ./public
